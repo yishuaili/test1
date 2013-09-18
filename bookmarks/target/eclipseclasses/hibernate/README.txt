@@ -10,3 +10,5 @@ first test failed, test again!
 9/18 pull request from yishuailiqq
 
 pull request failed, test commit
+
+keep testing pull request fire build
